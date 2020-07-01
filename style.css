@@ -1,0 +1,106 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+section{
+    height: 500px;
+    padding-bottom: 400px;
+}
+h1{
+    font-size: 50px;
+    color: rgb(78, 73, 73);
+}
+h2{
+    font-size: 45px;
+    color:  rgb(78, 73, 73);
+}
+h3{
+    color:  rgb(78, 73, 73);
+}
+p{
+    color: rgb(97, 93, 93);
+}
+.half-width{
+    float: left;
+    padding: 5%;
+    width: 35%;
+    margin-left: 1%;
+}
+.name-highlight{
+    color:#de3163 ;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(#de3163,rgb(214, 146, 214));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;   
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.middle-banner{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+#latest-work{
+    text-align: center;
+}
+.half-width img{
+    width: 100%;
+    display: inline;
+}
+.half-width-worksheet{
+    float: left;
+    padding: 2%;
+    width: 28%;
+    margin-left: 1%;   
+}
+.half-width-worksheet img{
+    width: 100%;
+    float: left;
+}
+.third-banner{
+    height: 500%;
+    padding-top: 150px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.forth-banner{
+    float: left;
+    padding: 5%;
+    width: 100%;
+    margin-left: 20%;
+    margin-top: 1%;
+    margin-bottom: 10%;
+    height: 500px;
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.last-button{
+    background-image:linear-gradient(#de3163,rgb(209, 104, 209));
+    padding: 30px 30px 30px 30px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 900; 
+    height: 80px;
+    width: 800;  
+}
+#email-highlight{
+    font-size: 40px;
+}
+footer{
+    text-align: center;
+    font-size: 20px;
+}
+
+   
+
+
+
+
+
+
